@@ -1,5 +1,6 @@
 
 --------------------------------------------Requirements--------------------------------------------
+
 Administrator Privileges:
 
 The injector must be run as an administrator to access and modify other processes.
